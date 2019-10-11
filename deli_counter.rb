@@ -1,8 +1,8 @@
 # Write your code here.
 liams_deli = []
 
-def line
-
+def line(liams_deli)
+  if 
 end
 
 def take_a_number(liams_deli, name)
