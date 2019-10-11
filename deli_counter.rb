@@ -21,5 +21,6 @@ def now_serving(liams_deli)
     puts "There is nobody waiting to be served!"
   else
     puts "Now serving #{liams_deli[0]}"
+    liams_deli.unshift
   end
 end
