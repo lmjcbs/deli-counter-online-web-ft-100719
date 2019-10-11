@@ -1,4 +1,6 @@
 # Write your code here.
+liams_deli = []
+
 def line
 
 end
