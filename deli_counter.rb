@@ -6,6 +6,9 @@ def line(liams_deli)
     puts "The line is currently empty."
   else
     print "The line is currently: "
+    liams_deli.each do |name, i|
+
+    end
   end
 end
 
