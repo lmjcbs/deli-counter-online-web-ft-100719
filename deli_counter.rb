@@ -16,6 +16,6 @@ def take_a_number(liams_deli, name)
   puts "Welcome, #{name}. You are number #{liams_deli.length} in line."
 end
 
-def now_serving
+def now_serving(liams_deli)
 
 end
