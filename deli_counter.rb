@@ -23,5 +23,5 @@ def now_serving(liams_deli)
     puts "Currently serving #{liams_deli[0]}."
     liams_deli.delete_at(0)
   end
-  liams_deli
+  #liams_deli
 end
