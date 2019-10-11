@@ -2,7 +2,7 @@
 liams_deli = []
 
 def line(liams_deli)
-  if
+  if liams_deli.length == 0
 end
 
 def take_a_number(liams_deli, name)
