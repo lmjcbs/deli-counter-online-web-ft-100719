@@ -17,5 +17,6 @@ def take_a_number(liams_deli, name)
 end
 
 def now_serving(liams_deli)
-
+  if liams_deli.length == 0
+    puts "There is nobody waiting to be served!"
 end
