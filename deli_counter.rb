@@ -7,7 +7,7 @@ def line(liams_deli)
   else
     line_str = "The line is currently:"
     liams_deli.each_with_index { |name, i| line_str << " #{i+1}. #{name}" }
-
+    puts line_str
   end
 end
 
