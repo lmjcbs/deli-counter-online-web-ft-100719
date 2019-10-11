@@ -23,4 +23,5 @@ def now_serving(liams_deli)
     puts "Currently serving #{liams_deli[0]}."
     liams_deli.unshift
   end
+  liams_deli
 end
