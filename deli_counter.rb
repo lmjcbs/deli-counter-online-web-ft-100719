@@ -3,7 +3,7 @@ liams_deli = []
 
 def line(liams_deli)
   if liams_deli.length == 0
-    puts "The line is empty"
+    puts "The line is empty."
 end
 
 def take_a_number(liams_deli, name)
