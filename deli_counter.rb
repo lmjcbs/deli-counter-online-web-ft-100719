@@ -5,8 +5,8 @@ def line(liams_deli)
   if liams_deli.length == 0
     puts "The line is currently empty."
   else
-    print "The line is currently:"
-    liams_deli.each_with_index { |name, i| print " #{i+1}. #{name}" }
+    line_str = "The line is currently:"
+    liams_deli.each_with_index { |name, i| line_str << " #{i+1}. #{name}" }
 
   end
 end
