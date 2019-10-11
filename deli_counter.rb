@@ -5,10 +5,8 @@ def line(liams_deli)
   if liams_deli.length == 0
     puts "The line is currently empty."
   else
-
-  end 
-
-
+    print "The line is currently: "
+  end
 end
 
 def take_a_number(liams_deli, name)
