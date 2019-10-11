@@ -2,7 +2,7 @@
 liams_deli = []
 
 def line(liams_deli, name)
-  Welcome, Ada. You are number {liams_deli.length + 1} in line.
+  "Welcome, #{name}. You are number #{liams_deli.length + 1} in line."
 end
 
 def take_a_number
