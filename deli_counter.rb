@@ -1,7 +1,7 @@
 # Write your code here.
 liams_deli = []
 
-def line
+def line(liams_deli, name)
 
 end
 
