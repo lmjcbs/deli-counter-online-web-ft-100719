@@ -6,7 +6,7 @@ def line(liams_deli)
     puts "The line is currently empty."
   else
     print "The line is currently:"
-    liams_deli.each_with_index { |name, i| print " #{i}. #{name}" }
+    liams_deli.each_with_index { |name, i| print " #{i+1}. #{name}" }
 
   end
 end
