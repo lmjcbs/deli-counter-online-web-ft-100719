@@ -20,6 +20,6 @@ def now_serving(liams_deli)
   if liams_deli.length == 0
     puts "There is nobody waiting to be served!"
   else
-    puts "Now serving #{name}"
+    puts "Now serving #{liams_deli[0]}"
   end
 end
