@@ -7,8 +7,8 @@ def line(liams_deli)
   else
 
   end 
-  
-    
+
+
 end
 
 def take_a_number(liams_deli, name)
